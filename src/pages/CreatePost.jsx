@@ -22,7 +22,7 @@ export default function CreatePost() {
 
 
   const generateImage = () => {
-
+    
   }
 
   const handleSubmit = () => {
